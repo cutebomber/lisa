@@ -16,9 +16,9 @@ from telethon.tl.types import Channel, Chat
 
 # ─── CONFIG ────────────────────────────────────────────────────────────────────
 
-SESSION_STRING = "YOUR_SESSION_STRING_HERE"   # paste your session string
-API_ID         = 0                             # from https://my.telegram.org
-API_HASH       = "YOUR_API_HASH"               # from https://my.telegram.org
+SESSION_STRING = "1AZWarzsBuyuOZF_pwY0d9KT53jp1_asj8tGFfN4vcHIR6NiWWoxD0cIvWRWph0e2FzWLMAkVuW-AS2xn4_o44a8awaoFu-4ZOLdcg6_e7YNqd4us0AuRr5ipEzt7-osxGHyWIBB6GMY0DmNtexQhSO0dMLDhKU0sQZjf65nn4GRuMcl2zjI5u3oGT87fjgwmbsF7nHdj8FDTZKvc2JUB27-nTgx-MDDVM8BxdxzkyB9lU5T7vm0Vd9sn2WByT5gvriKb-NTgpm9u8VWw9u9NykGnOE5vr7Ch0_N2HzSM7-XTIEdQYC9rNmZwyiV4_RoMoO0nIAa4NcJ1N8kMV4MYi7xRCczTTds="   # paste your session string
+API_ID         = 21752358                             # from https://my.telegram.org
+API_HASH       = "fb46a136fed4a4de27ab057c7027fec3"               # from https://my.telegram.org
 
 # ─── STATE ─────────────────────────────────────────────────────────────────────
 
